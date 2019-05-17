@@ -1,0 +1,16 @@
+{
+  "name": "resistdesign-tools",
+  "version": "0.0.0",
+  "description": "Resist Design Tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Resist Design",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "prop-types": "^15.5.10",
+    "react": "^15.4.0",
+    "react-dom": "^15.4.0"
+  }
+}
